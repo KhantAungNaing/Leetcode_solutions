@@ -3,7 +3,7 @@ package com.leetcode.algoritms;
 public class LengthOfLastWord {
 
 	public static void main(String[] args) {
-		int value = lengthOfLastWord("a                           ");
+		int value = lengthOfLastWord("a    ae                       ");
 		System.out.println(value);
 	}
 
