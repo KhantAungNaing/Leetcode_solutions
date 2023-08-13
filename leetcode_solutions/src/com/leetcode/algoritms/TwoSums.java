@@ -4,8 +4,6 @@ public class TwoSums {
 
 	public static void main(String[] args) {
 
-		int[] numsArr = { 2, 7, 11, 15 };
-		int[] numsArr1 = { 3, 3 };
 		int[] numsArr2 = { 3, 2, 4 };
 
 		int[] arr = twoSum(numsArr2, 7);
